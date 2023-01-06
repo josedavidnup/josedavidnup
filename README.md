@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm José David Nuñez</h1>
 
-![developer](https://scontent.fsrz4-1.fna.fbcdn.net/v/t39.30808-6/313428984_477961844313202_7445149357873859302_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=ab6a21&_nc_ohc=ZiQe1TYyGxIAX85ZhW0&tn=T6NRPZiN-_8E8doX&_nc_ht=scontent.fsrz4-1.fna&oh=00_AfAmFzoJ18YKLed7mO3lM-pCe9tPrRygbx4yhfjBlGjldw&oe=6372CD7C)
+![developer](me-working_everyday.jpeg)
 
 <h3 align="center">A passionate full stack developer and self-taught person that never stops learning</h3>
 
