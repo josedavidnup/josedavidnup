@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [personal projects](https://github.com/josedavidnup)
 
-- 🌱 I’m currently learning **Typescript, Next.js, JWT**
+- 🌱 I’m currently learning **Data Science**
 
 - 👨‍💻 All of my projects are available at [https://github.com/josedavidnup](https://github.com/josedavidnup)
 
