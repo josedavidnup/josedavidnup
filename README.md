@@ -2,7 +2,7 @@
 
 ![developer](me-working_everyday.jpeg)
 
-<h3 align="center">A passionate Full Stack developer, Data Scientist on the way, and self-taught person that never stops learning</h3>
+<h3 align="center">A passionate Full Stack developer, Data Scientist in process, and self-taught person that never stops learning</h3>
 
 - 🔭 I’m currently working on [personal projects](https://github.com/josedavidnup)
 
@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/josedavidnup](https://github.com/josedavidnup)
 
-- 💬 Ask me about **html,css,js,react.js,node.js,express,sequelize,postgresql,mongoDB**
+- 💬 Ask me about **JavasScript,React.js,Node.js,Express,Sequelize,Postgresql,mongoDB**
 
 - 📫 How to reach me **josedavidnup@gmail.com**
 
