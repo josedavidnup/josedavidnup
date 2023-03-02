@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Data Science**
 
-- 👨‍💻 All of my projects are available at [https://github.com/josedavidnup](https://github.com/josedavidnup)
+- 👨‍💻 All of my project demos are available at [https://josedavid.xyz](https://josedavid.xyz)
 
 - 💬 Ask me about **JavasScript,React.js,Node.js,Express,Sequelize,Postgresql,mongoDB**
 
