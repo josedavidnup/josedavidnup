@@ -2,7 +2,7 @@
 
 ![developer](me-working_everyday.jpeg)
 
-<h3 align="center">A passionate Full Stack developer, Data Scientist in process, and self-taught person that never stops learning</h3>
+<h3 align="center">A passionate Full Stack developer, Data Analyst, and self-taught person who never stops learning</h3>
 
 - 🔭 I’m currently working on [personal projects](https://github.com/josedavidnup)
 
